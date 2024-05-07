@@ -1,7 +1,7 @@
 import readline from "readline-sync"
-// questão 1
+// questão 4
 let vetor: number [] = [];
-const tamanhoVetor = 10;
+const tamanhoVetor = 30;
 
 for (let i = 0; i < tamanhoVetor; i++) {
     const valor = Number(readline.question(`Digite o valor ${i + 1} do vetor:`));
