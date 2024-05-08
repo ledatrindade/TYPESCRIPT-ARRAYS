@@ -1,4 +1,4 @@
-**Exercícios de Arrays em TypeScript**
+# Exercícios de Arrays em TypeScript
 
 Este repositório contém uma série de resoluções de exercícios que tinha como objetivo me fazer compreender conceitos fundamentais de programação relacionados a arrays usando TypeScript.
 fazendo com que eu desenvolva minhas habilidades práticas e construa uma compreensão sólida de como trabalhar efetivamente com arrays em TypeScript. Os exercícios abrangem uma variedade de áreas, incluindo manipulação de elementos, iteração e loops, ordenação e busca, filtragem e transformação.
