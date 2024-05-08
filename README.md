@@ -10,6 +10,6 @@ fazendo com que eu desenvolva minhas habilidades práticas e construa uma compre
 3. **Ordenação e Busca**: Exercícios para implementar algoritmos de ordenação e busca em arrays.
 4. **Filtragem e Transformação**: Exercícios para filtrar e transformar elementos de arrays com base em determinados critérios.
 
-Autoa: Lêda Trindade
+Autora: Lêda Trindade
 
 Data de finalização: 08/05/2024
